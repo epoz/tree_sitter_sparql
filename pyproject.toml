@@ -23,7 +23,7 @@ classifiers = [
 keywords = ["tree-sitter", "sparql", "parser", "incremental"]
 
 [project.urls]
-Homepage = "https://github.com/epoz/tree-sitter-sparql"
+Homepage = "https://github.com/epoz/tree_sitter_sparql"
 
 [tool.cibuildwheel]
 build = ["cp39-*", "cp310-*", "cp311-*", "cp312-*"]
