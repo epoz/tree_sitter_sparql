@@ -21,6 +21,9 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
 ]
 keywords = ["tree-sitter", "sparql", "parser", "incremental"]
+dependencies = [
+    "tree-sitter>=0.21.3",
+]
 
 [project.urls]
 Homepage = "https://github.com/epoz/tree_sitter_sparql"
